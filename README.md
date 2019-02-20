@@ -2,7 +2,7 @@
 
 Local Climatology Data is provided by NOAA and can be found here: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/quality-controlled-local-climatological-data-qclcd <br>
 
-Explores the following:
+<b>Explores the following: </b><br>
 -Importing and visualizing data from Atlantic City, NJ Station Local Climatology Data. <br>
 -Tufte's and Kossyln's Principles and how they relate to Climatology visualization. <br>
 -Importing and visualizing data from Wildwood/Cape May, NJ Airport Local Climatology Data. <br>
